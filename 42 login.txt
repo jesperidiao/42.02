@@ -1,0 +1,11 @@
+ssh
+jesperid@ssh.42.fr
+7f+4^U,u
+
+
+
+ls -m // separar por virgula
+
+-p // '/' se diretorio
+-U // ordenar por data de criacao
+
